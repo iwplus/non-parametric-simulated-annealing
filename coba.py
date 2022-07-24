@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 27 21:30:25 2019
-
-@author: asus
-"""
-
 from cobanonpar2 import Nonparametrik 
 import pandas as pd
 import numpy as np
